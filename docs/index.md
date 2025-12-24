@@ -1,4 +1,4 @@
-# ![Paperless Logo](https://paperlessts.com/)
+# ![Paperless Logo](https://paperlessts.com/wp-content/uploads/2022/07/Black_Purple_RGB.png)
 
 # Paperless Odoo Documentation
 

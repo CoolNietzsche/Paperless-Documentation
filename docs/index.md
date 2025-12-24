@@ -8,6 +8,8 @@ Welcome to the **Paperless Odoo User Guide**. This documentation is designed to 
 
 - [HR](docs/hr/index.md)
 - [Accounting & Finance](docs/accounting/index.md)
+- [Project](docs/hr/index.md)
+- [Procurement](docs/hr/index.md)
 - [Sales](docs/sales/index.md)
 - [Inventory](docs/inventory/index.md)
 

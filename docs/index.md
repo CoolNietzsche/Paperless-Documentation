@@ -1,17 +1,12 @@
-# Welcome to MkDocs
+# Paperless Odoo Documentation
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Welcome to the **Paperless Odoo User Guide**. This documentation is designed to help employees navigate and complete tasks efficiently within the Paperless Odoo environment. Whether you are managing sales, inventory, accounting, or HR, this guide provides step-by-step instructions and best practices to ensure a smooth workflow.
 
-## Commands
+## Departments
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+- [Sales](docs/sales/index.md)
+- [Inventory](docs/inventory/index.md)
+- [Accounting](docs/accounting/index.md)
+- [HR](docs/hr/index.md)
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+**Navigation Tip:** Use the table of contents on the left to access step-by-step guides for each department.

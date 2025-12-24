@@ -1,4 +1,4 @@
-site_name: Client Odoo User Guide
+site_name: MEFS Odoo User Guide & Docs
 
 theme:
   name: material
@@ -9,5 +9,11 @@ theme:
 
 nav:
   - Home: index.md
+  - HR:
+      - Create Employee Order: sales/create_sales_order.md
+      - Create Employee Contract: sales/create_sales_order.md
   - Sales:
       - Create Sales Order: sales/create_sales_order.md
+      
+  - Project Management
+  - Procurement

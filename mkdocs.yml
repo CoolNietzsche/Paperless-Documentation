@@ -1,0 +1,13 @@
+site_name: Client Odoo User Guide
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - search.highlight
+
+nav:
+  - Home: index.md
+  - Sales:
+      - Create Sales Order: sales/create_sales_order.md
